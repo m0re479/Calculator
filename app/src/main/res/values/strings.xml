@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="save">Сохранить</string>
+    <string name="open">Открыть</string>
+    <string name="title">Калькулятор</string>
+    <string name="enter_first_number">Введите первое число</string>
+    <string name="enter_second_number">Введите второе число</string>
+    <string name="enter_number">Введите число</string>
+    <string name="enter_number_for_numb">Введите число</string>
+    <string name="enter_number_for_deg">Введите степень</string>
+    <string name="result1">Результат вычислений</string>
+    <string name="result2">Результат</string>
+    <string name="result3">Результат</string>
+    <string name="title_sqrt">Вычисление квадратного корня</string>
+    <string name="title_for_degree">Возведение числа в степень</string>
+</resources>
